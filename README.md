@@ -16,8 +16,9 @@ npm install
 ```
 
 # Run production mode
-* Change port number on which you want server to run in `config/prod.env`
+
 ```bash
+export PORT=3000 # if run on your local. on heroku this var is set already for you
 npm run
 ```
 
