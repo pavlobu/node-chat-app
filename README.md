@@ -11,7 +11,7 @@ NodeJS, express.js, socket.io.
 # Setup
 
 ```bash
-cd node-weather-app
+cd node-chat-app
 npm install
 ```
 
